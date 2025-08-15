@@ -1,0 +1,7 @@
+reviews:
+  auto: true
+  branches:
+    include:
+      - main
+      - help-center-base
+      - develop
